@@ -6,7 +6,7 @@ Meanwhile, we present the details of the dataset construction here.
 
 ## Dataset
 
-Although the EDFC task is more reasonable and we have proposed an approach to alleviate the need for emotion distribution annotations during training, it still has the problem of difficult evaluation during testing. 
+Although the EDFC task is more reasonable, it still has the problem of difficult evaluation during testing. 
 Specifically, **the validation and test sets of existing datasets lack emotion distribution annotations**, which makes sample-level evaluation and error analysis impossible.
 We construct two new datasets: a single-turn Weibo dataset and a multi-turn Douban dataset. 
 Combining these two datasets, we can greatly alleviate the above problem and achieve a more comprehensive evaluation. 
