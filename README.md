@@ -11,6 +11,8 @@ Specifically, **the validation and test sets of existing datasets lack emotion d
 We construct two new datasets: a single-turn Weibo dataset and a multi-turn Douban dataset. 
 Combining these two datasets, we can greatly alleviate the above problem and achieve a more comprehensive evaluation. 
 
+![image](https://github.com/luxinxyz/EDFC/blob/main/figures/table.png)
+
 ### Weibo Dataset
 
 The Weibo dataset is constructed based on one-to-many Weibo Conversation Corpus[1]. 
